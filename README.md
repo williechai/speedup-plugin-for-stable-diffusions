@@ -1,0 +1,1 @@
+# speedup-plugin-for-stable-diffusions

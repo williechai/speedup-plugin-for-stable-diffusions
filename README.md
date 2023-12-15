@@ -6,6 +6,16 @@ Project Page: [Page](https://williechai.github.io/speedup-plugin-for-stable-diff
 
 <img src="https://github.com/williechai/speedup-plugin-for-stable-diffusions/blob/master/pics/comparison.jpg" width="100%" height="100%">
 
+## Usage
+
+```
+cd demo
+
+# prepare models
+
+python controlnet_lora.py
+```
+
 ## Download SUN adapter
 
 https://huggingface.co/Williechai/SpeedUpNet/tree/main

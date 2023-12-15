@@ -4,7 +4,7 @@ This repo is the official implementation of SpeedUpNet(SUN) in PyTorch.
 Paper: [SpeedUpNet: A Plug-and-Play Hyper-Network for Accelerating Text-to-Image Diffusion Models](https://arxiv.org/pdf/2312.08887.pdf)
 Project Page: [Page](https://williechai.github.io/speedup-plugin-for-stable-diffusions.github.io/)
 
-<img src="https://github.com/williechai/speedup-plugin-for-stable-diffusions/blob/master/pics/comparison.jpg" width="100%" height="100%">
+<img src="https://github.com/williechai/speedup-plugin-for-stable-diffusions/blob/main/pics/comparison.jpg" width="100%" height="100%">
 
 ## Usage
 

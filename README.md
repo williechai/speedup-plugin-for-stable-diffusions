@@ -6,6 +6,10 @@ Project Page: [Page](https://williechai.github.io/speedup-plugin-for-stable-diff
 
 <img src="https://github.com/williechai/speedup-plugin-for-stable-diffusions/blob/master/pics/comparison.png" width="100%" height="100%">
 
+## Download SUN adapter
+
+https://huggingface.co/Williechai/SpeedUpNet/tree/main
+
 ## Update
 
 **`2023.12.15`**: Readme.

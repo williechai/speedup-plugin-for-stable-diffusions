@@ -1,10 +1,23 @@
 # speedup-plugin-for-stable-diffusions
 
 This repo is the official implementation of SpeedUpNet(SUN) in PyTorch. 
+
 Paper: [SpeedUpNet: A Plug-and-Play Hyper-Network for Accelerating Text-to-Image Diffusion Models](https://arxiv.org/pdf/2312.08887.pdf)
-Project Page: [Page](https://williechai.github.io/speedup-plugin-for-stable-diffusions.github.io/)
+
+Project Page: [SpeedUpNet](https://williechai.github.io/speedup-plugin-for-stable-diffusions.github.io/)
 
 <img src="./pics/comparison.jpg" width="100%" height="100%">
+
+## 10x speed up on stable diffusions
+Introducing SUN as a plug-in, a pre-trained SD can generate high-quality images in only 4 steps. We can test on MacBook Pro(M1 Pro):
+
+DPM-Solver++ 20 steps, 16 seconds (baseline)
+<img src="./pics/dpm20.gif" width="100%" height="100%">
+
++SUN, 4 steps, 2 seconds
+<img src="./pics/sun4.gif" width="100%" height="100%">
+
+See more on our [webpage](https://williechai.github.io/speedup-plugin-for-stable-diffusions.github.io/)
 
 ## Usage
 

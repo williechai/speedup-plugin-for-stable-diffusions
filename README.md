@@ -19,6 +19,16 @@ DPM-Solver++ 20 steps, 16 seconds (baseline)
 
 See more on our [webpage](https://williechai.github.io/speedup-plugin-for-stable-diffusions.github.io/)
 
+## Realtime Controllable Generation
+
+SUN is compatible with controllable tools.
+Real-time rendering can be achieved on high-end consumer-grade graphics cards. 
+
+<img src="./pics/guilin_sun_small.gif" width="100%" height="100%">
+
+<img src="./pics/face_sun_small.gif" width="100%" height="100%">
+
+
 ## Usage
 
 ```

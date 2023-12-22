@@ -24,7 +24,7 @@ See more on our [webpage](https://williechai.github.io/speedup-plugin-for-stable
 SUN is compatible with controllable tools.
 Real-time rendering can be achieved on high-end consumer-grade graphics cards. 
 
-<img src="./pics/cat.gif" width="100%" height="100%">
+<img src="./pics/cat2.gif" width="100%" height="100%">
 
 <img src="./pics/guilin_sun_small.gif" width="100%" height="100%">
 
